@@ -2,6 +2,7 @@
 
 ## 📝 Project Description
 This project analyzes a clinical dataset of diabetes patients obtained from [Kaggle](https://www.kaggle.com/datasets/vivovinco/2023-2024-nba-player-stats).
+
 This project analyzes a comprehensive dataset of the 2023-2024 NBA season, covering performance metrics for both the Regular Season and the Playoffs. The dataset includes statistics for 572 unique players across 30 teams, with player ages ranging from 19 to 39 years old.
 
 The main goal is to process the data and create an interactive visualization that helps explore player efficiency, scoring distributions, and team performance trends.
